@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- 🌸 Header Banner -->
-<img src="https://raw.githubusercontent.com/JISHU-GHOSH/JISHU-GHOSH/main/assets/header.jpg" width="100%" alt="Header Banner">
+<!-- 🌸 Live Animated Banner -->
+<img src="https://raw.githubusercontent.com/JISHU-GHOSH/JISHU-GHOSH/main/assets/header.gif" width="100%" alt="Live Header Banner">
 
 # Hey there, I'm Jishu 👋
 
