@@ -1,11 +1,7 @@
 <div align="center">
 
-<!-- 🌸 Responsive Light/Dark Banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:FF69B4&height=220&section=header&text=JISHU&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:EF93C4&height=220&section=header&text=JISHU&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:FF69B4&height=220&section=header&text=JISHU&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" alt="Jishu banner">
-</picture>
+<!-- 🌸 Header Banner -->
+<img src="https://raw.githubusercontent.com/JISHU-GHOSH/JISHU-GHOSH/main/assets/header.jpg" width="100%" alt="Header Banner">
 
 # Hey there, I'm Jishu 👋
 
